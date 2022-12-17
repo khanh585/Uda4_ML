@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<khanh585>](https://circleci.com/gh/khanh585/Uda4_ML.svg?style=svg)](https://circleci.com/gh/khanh585/Uda4_ML)
 
 ## Project Overview
 
